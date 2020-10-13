@@ -1,12 +1,19 @@
 # PMI-0.4-SUGAR
 
-Customized PMI version for analysis of cardiac and renal perfusion data in the SUGAR trial
+Customized PMI version for analysis of cardiac and renal perfusion data in the SUGAR trial:
 
 https://clinicaltrials.gov/ct2/show/NCT03485092
 
-This is a compiled version. For source code see https://github.com/plaresmedima/PMI-0.4
+Included in this repository:
 
-For more details on PMI including installation instructions see: https://sites.google.com/site/plaresmedima/
+>> A compiled version of PMI 0.4 for SUGAR. 
+
+>> Standard Operating Procedures for cardiac perfusion analysis
+
+For more details on PMI including installation instructions and links to source code see:
+
+https://sites.google.com/site/plaresmedima/
+
 
 --------------------------------------------------------------------
 
